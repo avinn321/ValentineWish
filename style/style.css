@@ -106,6 +106,7 @@ body {
 .idea-6 span,
 .wish-hbd span {
   display: inline-block;
+  white-space: pre-wrap;
 }
 
 .idea-6 span {
@@ -214,6 +215,7 @@ body {
 .wish-hbd {
   font-size: 3em;
   margin: 0;
+  white-space: pre-wrap;
   /* text-transform: uppercase; */
 }
 
@@ -287,6 +289,7 @@ body {
 
   .wish-hbd {
     font-size: 2.3em;
+    white-space: pre-wrap;
   }
 
   .wish h5 {
